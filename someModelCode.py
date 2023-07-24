@@ -10,4 +10,4 @@ def model3:
     print("print in model3")
 
 
-print("end of models & model1 is selected")
+print("end of models & model3 is selected")
